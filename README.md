@@ -36,3 +36,5 @@ Andrew Nwalie: Conceptual Database Design  <br/>
 
 ## ER Model
 ![ER Model](https://github.com/change521/CS4353_Final_Project/blob/master/ERmodel/Main.png?raw=true)  <br/>
+![Location](https://github.com/change521/CS4353_Final_Project/blob/master/ERmodel/location.jpg?raw=true)  <br/>
+![Project Type](https://github.com/change521/CS4353_Final_Project/blob/master/ERmodel/Project%20Type.jpg?raw=true)  <br/>
