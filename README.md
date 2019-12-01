@@ -16,6 +16,11 @@ Andrew Nwalie: Conceptual Database Design  <br/>
 
 # Visualization Graph 
 
+## Normalization
+![Contractor](https://github.com/change521/CS4353_Final_Project/blob/master/Contractor3NF.png?raw=true)  <br/>
+
+![Production](https://github.com/change521/CS4353_Final_Project/blob/master/Production3NF.png?raw=true)  <br/>
+
 ## Loaction Count
 ![Loaction Count](https://github.com/change521/CS4353_Final_Project/blob/master/Location/Solar_Electric_Loaction_countyCount.png?raw=true)  <br/>
 
