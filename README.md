@@ -25,6 +25,7 @@ Andrew Nwalie: Conceptual Database Design  <br/>
 ![Incentive](https://github.com/change521/CS4353_Final_Project/blob/master/Project%20Production/Solar_Electric_Project_Production_$IncentiveHist.png?raw=true)  <br/>
 
 ## Manufacturer Count
+[Click to get full image](https://github.com/change521/CS4353_Final_Project/blob/master/Project%20Provider/Solar_Electric_ProjectProvider_Primary%20PV%20Module%20ManufacturerCount.png?raw=true)
 ![PV Module ManufacturerCount](https://github.com/change521/CS4353_Final_Project/blob/master/Project%20Provider/Solar_Electric_ProjectProvider_Primary%20PV%20Module%20ManufacturerCount.png?raw=true)  <br/>
 
 ## Project Status
